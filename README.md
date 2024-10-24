@@ -1,2 +1,3 @@
 # Craft-N-Code
 Transparent Eats
+Our solution presents a groundbreaking blockchain-based food traceability system powered by IoT-enabled smart carts. These carts, equipped with sensors tracking weight, temperature, humidity, and methane levels, create a digital fingerprint of agricultural products. As products move through the supply chain, each transaction and environmental condition is automatically recorded on our blockchain network. Smart carts collect real-time data and location information at every transfer, ensuring continuous traceability. Consumers can scan a QR code to view verified details about the product's origin, handling, and distribution. This integration of blockchain, IoT sensors, and smart contracts enhances transparency, trust, and food safety.
